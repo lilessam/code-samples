@@ -15,7 +15,7 @@ class Geocoder extends BaseService implements Service
     /**
      * @var string
      */
-    private $apiKey = 'AIzaSyAWCv7lDN7P9sBD6uxXbyCGv9j1pf6vnow';
+    private $apiKey = '';
 
     /**
      * @var string
